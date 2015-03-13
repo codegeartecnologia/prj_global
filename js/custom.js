@@ -145,8 +145,6 @@ niceScrollInit();
 			},
 		});
 		
-		
-		
 		// filter items when filter link is clicked
 		jQuery('#filters a').click(function(){
 			var selector = $(this).attr('data-filter');

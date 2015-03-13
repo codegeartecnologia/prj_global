@@ -287,7 +287,7 @@ textarea:hover,
 
 label {
   font-size: 14px;
-  color: #d4d4d4;
+  color: #555555;
   margin: 0 0 10px 0;
 }
 
@@ -472,7 +472,7 @@ label {
 .content-section {
   position: relative;
   z-index: 10;
-  padding: 100px 0 90px 0;
+  padding: 60px 0 90px 0;
 }
 .content-section h3 {
   text-transform: uppercase;
@@ -714,7 +714,7 @@ label {
 
    .social-icons a {
       color: #fff;
-      background-color: rgba($white_color, 0.2);
+      background-color: rgba("$white_color", 0.2);
       width: 30px;
       height: 30px;
       text-align: center;
@@ -722,8 +722,8 @@ label {
       font-size: 16px;
     }
   .social-icons  a:hover {
-      background-color: $white_color;
-      color: $primary_color;
+      background-color: "$white_color";
+      color: "$primary_color";
     }
 
 /* Bootstrap ToolTip Override */

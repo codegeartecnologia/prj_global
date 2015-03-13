@@ -10,7 +10,7 @@
     	Impressum Template
     	http://www.templatemo.com/preview/templatemo_432_impressum
     	-->
-        <title>Impressum - Free Parallax Template</title>
+        <title>GlobalFlex Manutec</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -45,18 +45,19 @@
 	   
 		<ul class="mobile-navigation">
 		    <li><a href="#introduction">Home</a></li>
-		    <li><a href="#about">About Us</a></li>
-		    <li><a href="#portfolio">Portfolio</a></li>
-		    <li><a href="#partners">Partners</a></li>
-		    <li><a href="#our-team">Our Team</a></li>
-		    <li><a href="#contact">Contact</a></li>
+		    <li><a href="#about">Sobre</a></li>
+		    <li><a href="#portfolio">Serviços</a></li>
+		    <li><a href="#portfolio">Produtos</a></li>
+		    <li><a href="#partners">Parceiros</a></li>
+		    <li><a href="#our-team">Equipe</a></li>
+		    <li><a href="#contact">Contato</a></li>
 		</ul>
 		
 		<ul class="mobile-social-icons">
 		    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 		    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
 		    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-		    <li><a href="#"><i class="fa fa-rss"></i></a></li>
+		    <!-- <li><a href="#"><i class="fa fa-rss"></i></a></li> -->
 		</ul>
 	    
 	</div>
@@ -76,11 +77,12 @@
 			<nav id="navigation" class="hidden-sm hidden-xs">
 			    <ul id="main-nav" class="main-navigation">
 				<li class="current"><a href="#introduction">Home</a></li>
-				<li><a href="#about">About Us</a></li>
-				<li><a href="#portfolio">Portfolio</a></li>
-				<li><a href="#partners">Partners</a></li>
-				<li><a href="#our-team">Our Team</a></li>
-				<li><a href="#contact">Contact</a></li>
+				<li><a href="#about">Sobre</a></li>
+			    <li><a href="#portfolio">Serviços</a></li>
+			    <li><a href="#produtos">Produtos</a></li>
+			    <li><a href="#partners">Parceiros</a></li>
+			    <li><a href="#our-team">Equipe</a></li>
+			    <li><a href="#contact">Contato</a></li>
 			    </ul>
 			</nav>
 			
@@ -108,7 +110,7 @@
 					    Curabitur a risus sed massa elementum dictum<br>
 					    Proin convallis venenatis sem
 					</h2>
-					<a class="slide-button">View Project</a>
+					<!-- <a class="slide-button">View Project</a> -->
 				    </div>
 				</div>
 			    </div>
@@ -125,7 +127,7 @@
 					    Nullam euismod erat eget mi tincidunt malesuada<br>
 					    Aliquam sed est volutpat turpis condimentum
 					</h2>
-					<a class="slide-button">View Project</a>
+					<!-- <a class="slide-button">View Project</a> -->
 				    </div>
 				</div>
 			    </div>
@@ -142,7 +144,7 @@
 					    Proin quis nunc nec turpis ultrices aliquet<br>
 					    Vestibulum placerat placerat eros
 					</h2>
-					<a class="slide-button">View Project</a>
+					<!-- <a class="slide-button">View Project</a> -->
 				    </div>
 				</div>
 			    </div>
@@ -165,7 +167,7 @@
 	    <div class="container">
 		<div class="row">
 		    <div class="col-md-12">
-			<h2 class="section-title left">What We Do</h2>
+			<h2 class="section-title left"> O que nós fazemos </h2>
 		    </div>
 		</div>
 		<div class="row">
@@ -193,14 +195,6 @@
 			    <p>Integer posuere dui sapien. Morbi eu aliquam lectus. Nam sem arcu, varius nec bibendum egestas, finibus tempus urna.</p>
 			</div>
 		    </div>
-
-		    <div class="col-md-4 animated-item feature-item fadeInUp" data-delay="400">
-			<span class="feature-icon"><i class="li_heart"></i></span>
-			<div class="feature-info">
-			    <h3 class="feature-title"><span></span>Sweet Support</h3>
-			    <p>Teste</p>
-			</div>
-		    </div>
 		    
 		</div> <!-- //.row -->
 		
@@ -208,7 +202,7 @@
 		
 		<div class="row">
 		    <div class="col-md-7 animated-item fadeInLeft" data-delay="200">
-			<h3>Our Skills</h3>
+			<h3> Nossas Habilidades </h3>
 			
 			<p>Impressum is <a rel="nofollow" href="http://www.templatemo.com/page/1">free parallax template</a> from <b class="blue">template</b><b class="green">mo</b>. 
             You can download, edit and use this responsive layout for any website. Credit goes to <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for images used in this template.
@@ -222,13 +216,13 @@
 		    <div class="col-md-5 skillbar-container animated-item fadeInRight" data-delay="400">
 			
 			<div class="skillbar clearfix anim" data-percent="94">
-			    <div class="skillbar-title">Photoshop</div>
+			    <div class="skillbar-title"> Usinagem </div>
 			    <div class="skillbar-bar"></div>
 			    <div class="skillbar-percent">94%</div>
 			</div>
 			
 			<div class="skillbar clearfix anim" data-percent="88">
-			    <div class="skillbar-title">Illustrator</div>
+			    <div class="skillbar-title"> Calderaria </div>
 			    <div class="skillbar-bar"></div>
 			    <div class="skillbar-percent">88%</div>
 			</div>
@@ -250,13 +244,13 @@
 			    <div class="col-md-3 counter-item">
 				<span class="counter-icon"><i class="li_user"></i></span>
 				<span class="counter-number" data-from="1" data-to="256" data-speed="1000"></span>
-				<span class="counter-text">Satisfied Clients</span>
+				<span class="counter-text"> Satisfação do Cliente </span>
 			    </div>
 			    
 			    <div class="col-md-3 counter-item">
 				<span class="counter-icon"><i class="li_display"></i></span>
 				<span class="counter-number" data-from="1" data-to="512" data-speed="2000"></span>
-				<span class="counter-text">Projects Delivered</span>
+				<span class="counter-text"> Projetos Desenvolvidos </span>
 			    </div>
 			    
 			    <div class="col-md-3 counter-item">
@@ -282,163 +276,62 @@
 	    <div class="container">
 		<div class="row">
 		    <div class="col-md-12">
-			<h2 class="section-title right">Portfolio</h2>
+			<h2 class="section-title right"> Serviços </h2>
 		    </div>
 		</div>
 		<div class="row">
 		    <div class="col-md-12">
 			<ul id="filters" class="folio-filters">
-			    <li class="current"><a href="#" data-filter="*">All</a></li>
-			    <li class=""><a href="#" data-filter=".webdesign">Web Design</a></li>
-			    <li class=""><a href="#" data-filter=".photography">Photography</a></li>
-			    <li class=""><a href="#" data-filter=".branding">Branding</a></li>
-			    <li class=""><a href="#" data-filter=".marketing">Marketing</a></li>
+			    <!-- <li class="current"><a href="#" data-filter="*"> Todos </a></li> -->
+			    <li class=""><a href="#" data-filter=".calderaria"> Calderaria </a></li>
+			    <li class=""><a href="#" data-filter=".usinagem"> Usinagem </a></li>
 			</ul>
 		    </div>
 		</div>
 		    
 		    <div id="folio-container" class="row">
-			<div class="col-md-3 col-sm-6 folio-item webdesign">
-			    <div class="folio-thumb item-h2">
-				<img src="images/post1.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post1.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
+				<div class="col-md-3 col-sm-6 folio-item calderaria">
+				    <div class="folio-thumb item-h2">
+					<img src="images/post1.jpg" alt="">
+					    <div class="folio-overlay">
+						<a href="images/big-post1.jpg" class="folio-zoom">
+						    <i class="fa fa-plus"></i>
+						</a>
+					    </div> <!-- //.folio-overlay -->
+					
+				    </div> <!-- //.folio-thumb -->
+				    <div class="folio-desc">
+					<span class="folio-tail"></span>
+					<h4><a href="#">Supermario Shoes</a></h4>
+					<h6>Website & Shop</h6>
+				    </div> <!-- //.folio-desc -->
+				</div> <!-- folio-item -->
 				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item photography">
-			    <div class="folio-thumb">
-				<img src="images/post2.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post2.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item branding">
-			    <div class="folio-thumb item-h2">
-				<img src="images/post3.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post3.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item marketing">
-			    <div class="folio-thumb">
-				<img src="images/post4.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post4.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item webdesign">
-			    <div class="folio-thumb">
-				<img src="images/post5.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post5.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item photography">
-			    <div class="folio-thumb item-h2">
-				<img src="images/post6.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post6.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item branding">
-			    <div class="folio-thumb">
-				<img src="images/post7.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post7.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
-			
-			<div class="col-md-3 col-sm-6 folio-item marketing">
-			    <div class="folio-thumb">
-				<img src="images/post8.jpg" alt="">
-				    <div class="folio-overlay">
-					<a href="images/big-post8.jpg" class="folio-zoom">
-					    <i class="fa fa-plus"></i>
-					</a>
-				    </div> <!-- //.folio-overlay -->
-				
-			    </div> <!-- //.folio-thumb -->
-			    <div class="folio-desc">
-				<span class="folio-tail"></span>
-				<h4><a href="#">Supermario Shoes</a></h4>
-				<h6>Website & Shop</h6>
-			    </div> <!-- //.folio-desc -->
-			</div> <!-- folio-item -->
+				<div class="col-md-3 col-sm-6 folio-item usinagem">
+				    <div class="folio-thumb">
+					<img src="images/post2.jpg" alt="">
+					    <div class="folio-overlay">
+						<a href="images/big-post2.jpg" class="folio-zoom">
+						    <i class="fa fa-plus"></i>
+						</a>
+					    </div> <!-- //.folio-overlay -->
+					
+				    </div> <!-- //.folio-thumb -->
+				    <div class="folio-desc">
+					<span class="folio-tail"></span>
+					<h4><a href="#">Supermario Shoes</a></h4>
+					<h6>Website & Shop</h6>
+				    </div> <!-- //.folio-desc -->
+				</div> <!-- folio-item -->
 			
 		    </div> <!-- //. row .folio-container-->
 		</div>
 	    
 	</section>
 	<!-- End Portfolio Section -->
+	
+	<!-- Produtos Section-->
+	<?php include('produtos.php'); ?>
 	
 	<!-- Partners Section -->
 	<section id="partners" class="content-section content-overlay parallax-section clearfix">
@@ -447,7 +340,7 @@
 		<div class="container">
 		    <div class="row">
 			<div class="col-md-12">
-			    <h2 class="section-title left">Best Partners</h2>
+			    <h2 class="section-title left"> Melhores Parceiros </h2>
 			</div>
 		    </div>
 		    <div class="row no-margin">
@@ -487,7 +380,7 @@
 	    <div class="container">
 		<div class="row">
 		    <div class="col-md-12">
-			<h2 class="section-title right">Our Team</h2>
+			<h2 class="section-title right"> Nossa Equipe </h2>
 		    </div>
 		</div>
 		<div class="row">
@@ -619,7 +512,7 @@
 	    <div class="container">
 		<div class="row">
 		    <div class="col-md-12">
-			<h2 class="section-title left">Contact Us</h2>
+			<h2 class="section-title left"> Contatos </h2>
 		    </div>
 		</div>
 		<div class="row">
@@ -627,7 +520,7 @@
 			<form id="email-form" action="#" method="post">
 			    <div class="row">
 				<div class="col-md-6">
-				    <label for="name">Name</label>
+				    <label for="name">Nome</label>
 				    <input type="text" class="form-input" name="name" id="name">
 				</div>
 				<div class="col-md-6">
@@ -637,26 +530,26 @@
 			    </div>
 			    <div class="row">
 				<div class="col-md-12">
-				    <label for="message">Message</label>
+				    <label for="message">Menssagem</label>
 				    <textarea rows="6" id="message" name="message" class="form-input"></textarea>
 				</div>
 			    </div>
 			    <div class="row">
 				<div class="col-md-12">
-				    <button class="main-button" type="submit">Send Message</button>
+				    <button class="main-button" type="submit"> Enviar Menssagem </button>
 				</div>
 			    </div>
 			</form>
 			
 		    </div>
 		    <div class="col-md-5 col-md-offset-1 contact-info">
-			<h4>Our Office</h4>
+			<h4> Nosso Escritório </h4>
 			<p>Fusce viverra tempus lectus nec pretium. Donec pellentesque,
 			tellus sed bibendum placerat, orci diam congue nisi, sed blandit diam
 			turpissit amet dui.
 			</p>
 			
-			<h4>Contact Details</h4>
+			<h4> Detalhes do Contato </h4>
 			<ul>
 			    <li><i class="fa fa-map-marker"></i>123 Dagon Studio, Digital Estate</li>
 			    <li><i class="fa fa-phone"></i>010-020-0340</li>
@@ -680,7 +573,7 @@
 			<div class="container">
                 <div class="col-md-6 col-sm-6">
                     <div class="copyright-text">
-                        <span>Copyright &copy; 2084 Company Name</span>
+                        <span>Copyright &copy; 2015 GlobalFlex Manutec</span>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
@@ -689,7 +582,7 @@
                             <li><a href="#" class="fa fa-facebook"></a></li>
                             <li><a href="#" class="fa fa-twitter"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>
-                            <li><a href="#" class="fa fa-rss"></a></li>
+                            <!-- <li><a href="#" class="fa fa-rss"></a></li> -->
                         </ul>
                     </div>
                 </div>
